@@ -13,7 +13,7 @@ export default class SettingsScreen extends React.Component {
       { data: [{ value: "172 / 450" }], title: 'Current Traffic / Venue Capacity' },
       { data: [{ value: 4 }], title: 'Current People with Disabilities' },
       { data: [{ value: ["Johnhan Smith - hearing-impaired\n\n", "Donna Chan - epilepsy (low confidence)\n\n", "Tina Patience - blindness\n\n", "Mike C - blindness"] }], title: 'In Need List (Click on name for details)' },
-      { data: [{ value: "1.2.1" }], title: 'Firmware Version' },
+      { data: [{ value: "1.2.1" }], title: 'Qualcomm IoT Firmware Version' },
       { data: [{ value: ["Switch Location\n\n", "Log out hlehman07..."] }], title: 'Account' },
       { data: [{ value: ["Encountered a tech problem? Try the following:\n\n", "1. Online Customer Service (currently available)\n", "2. WheelGo Support Team 24/7 Hotline: 800-123-4567"] }], title: 'Contact Support Team' },
     ];
